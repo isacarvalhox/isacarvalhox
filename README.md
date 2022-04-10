@@ -1,4 +1,6 @@
-### Hello world, I'm Isa!🌍
+### Hello, World!🌍
+
+# My name's Isabela, but you can call me Isa. I'm an Information Systems student livin in Brazil.
 
 <!--
 **isacarvalhox/isacarvalhox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
