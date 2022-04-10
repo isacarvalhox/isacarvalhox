@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=5030&color=369EF7&multiline=true&lines=Hello%2C+World!%F0%9F%8C%8D;I'm+Isabela%2C+but+you+can+call+me+Isa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5030&multiline=true&width=475&height=100&lines=Hello+and+welcome!%F0%9F%8C%8E;I'm+Isabela%2C+but+you+can+call+me+Isa)](https://git.io/typing-svg)
