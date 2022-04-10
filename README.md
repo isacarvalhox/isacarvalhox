@@ -1,8 +1,5 @@
-### Hello, World!🌍
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&duration=5030&color=369EF7&multiline=true&lines=Hello+and+welcome%2C+World!%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-My name's Isabela, but you can call me Isa. I'm an Information Systems student livin in Brazil.
-
-<!--
 **isacarvalhox/isacarvalhox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
